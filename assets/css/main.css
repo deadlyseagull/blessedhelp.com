@@ -547,6 +547,10 @@ footer ul.links a svg:hover path {
     fill: #414f57;
 }
 
+#resultButtonContainer{
+    margin-top: 20px;
+}
+
 .circular--square { border-radius: 50%;  max-width: 10%; max-height: 10%}
 
 section#wrapper {
