@@ -551,7 +551,7 @@ footer ul.links a svg:hover path {
     margin-top: 20px;
 }
 
-.circular--square { border-radius: 50%;  width: 10%; height: 10%}
+.circular--square { border-radius: 50%;  width: 10%; height: auto}
 
 section#wrapper {
     max-height: 10px; /* 100px x3 = 300 */
