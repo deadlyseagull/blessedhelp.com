@@ -15,7 +15,7 @@ a {
 /* Header CSS */
 header {
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0,0,0,0.3)), url(../assets/img/Waite-HappyPlace.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0,0,0,0.3)), url(assets/img/Waite-HappyPlace.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -344,7 +344,7 @@ section#about a:hover{
 section#template {
     padding: 75px 0;
     text-align: center;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../assets/img/pexels-gustavo-fring-3985163.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(assets/img/pexels-gustavo-fring-3985163.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
